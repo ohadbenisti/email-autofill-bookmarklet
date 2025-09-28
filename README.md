@@ -86,7 +86,7 @@ Use this bookmarklet responsibly and only on websites where you intend to provid
 
 ## עברית
 
-כלי JavaScript פשוט שממלא אוטומטיט שדות מייל בכל אתר עם כתובת המייל שלכם.
+כלי JavaScript פשוט שממלא אוטומטית שדות מייל בכל אתר עם כתובת המייל שלכם.
 
 ### 🚀 תכונות
 
